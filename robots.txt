@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohgaiwofa.mwycher.co.uk/sitemap.xml
